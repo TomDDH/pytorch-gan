@@ -1,0 +1,8 @@
+# Local env files
+/env
+.env
+
+# Testing
+coverage
+recover
+MNIST
